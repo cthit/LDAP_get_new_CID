@@ -2,9 +2,9 @@
 
 ## Usage
 1. Get a CSV with the format Firstname,Lastname.
-2. Run `./ldap\_parser\_names.sh {filewithnames.csv} >> potential\_new\_students`.
-3. Run `./ldap\_verify\_cid.sh potential\_new\_students >> verified\_new\_students`.
-4. Run `cargo run` and input `verified\_new\_students`.
+2. Run `./ldap_parser_names.sh {filewithnames.csv} >> potential_new_students`.
+3. Run `./ldap_verify_cid.sh potential_new_students >> verified_new_students`.
+4. Run `cargo run` and input `verified_new_students`.
 
 ## Dependencies
 - OpenLDAP
