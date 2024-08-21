@@ -4,3 +4,12 @@
 !ldap_verify_cid.sh
 !README.md
 !.gitignore
+!src
+!src/*
+!Cargo.toml
+!.env.example
+
+
+# Added by cargo
+
+/target
