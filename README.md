@@ -1,4 +1,4 @@
-# Two simple scripts to get CID of new students.
+# Three simple scripts to get CID of new students.
 
 ## Usage
 1. Get a CSV with the format Firstname,Lastname.
